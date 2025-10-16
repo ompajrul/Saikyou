@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Saikyou/static/css/main.41215f20.css",
+    "main.js": "/Saikyou/static/js/main.0f86a588.js",
+    "static/js/453.4c1ddad6.chunk.js": "/Saikyou/static/js/453.4c1ddad6.chunk.js",
+    "static/media/suisei.png": "/Saikyou/static/media/suisei.494f23d54100a8c2d38c.png",
+    "static/media/Vanta.jpg": "/Saikyou/static/media/Vanta.8ce1897fff025e1d2974.jpg",
+    "static/media/suisei_1.jpg": "/Saikyou/static/media/suisei_1.72ce88e686ecf20bc678.jpg",
+    "static/media/zeya.jpg": "/Saikyou/static/media/zeya.7438805d0ef2321a24bc.jpg",
+    "index.html": "/Saikyou/index.html",
+    "main.41215f20.css.map": "/Saikyou/static/css/main.41215f20.css.map",
+    "main.0f86a588.js.map": "/Saikyou/static/js/main.0f86a588.js.map",
+    "453.4c1ddad6.chunk.js.map": "/Saikyou/static/js/453.4c1ddad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41215f20.css",
+    "static/js/main.0f86a588.js"
+  ]
+}
