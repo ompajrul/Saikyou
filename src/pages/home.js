@@ -25,7 +25,7 @@ export default function Home() {
 
           <div className="row">
             <div className="col">
-              <a href="#" className="btn btn-primary px-5 fs-2 my-2">
+              <a href="https://wa.me/6281542337411?text=Halo%20Admin%2C%20apakah%20hari%20ini%20tersedia%20jasa%20gambar" className="btn btn-primary px-5 fs-2 my-2">
                 PESAN SEKARANG
               </a>
             </div>
@@ -106,11 +106,11 @@ export default function Home() {
         <div className="row">
           <div className="col-md-4 mb-4">
             <div className="card h-100 shadow">
-              <img
+              {/* <img
                 src="https://via.placeholder.com/300x200"
                 className="card-img-top"
                 alt="..."
-              />
+              /> */}
               <div className="card-body">
                 <h5 className="card-title">Kualitas Premium</h5>
                 <p className="card-text">
@@ -123,11 +123,11 @@ export default function Home() {
 
           <div className="col-md-4 mb-4">
             <div className="card h-100 shadow">
-              <img
+              {/* <img
                 src="https://via.placeholder.com/300x200"
                 className="card-img-top"
                 alt="..."
-              />
+              /> */}
               <div className="card-body">
                 <h5 className="card-title">Harga Bersahabat</h5>
                 <p className="card-text">
@@ -140,11 +140,11 @@ export default function Home() {
 
           <div className="col-md-4 mb-4">
             <div className="card h-100 shadow">
-              <img
+              {/* <img
                 src="https://via.placeholder.com/300x200"
                 className="card-img-top"
                 alt="..."
-              />
+              /> */}
               <div className="card-body">
                 <h5 className="card-title">Cepat & Responsif</h5>
                 <p className="card-text">

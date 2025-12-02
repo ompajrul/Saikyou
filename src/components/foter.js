@@ -1,18 +1,12 @@
-export default function Foter(){
-    return(
-        <footer class="card">
-        <h5 class="card-footer">SaiKyou</h5>
-        <div class="card-body">
-            <div className="row">
-                <div className="col">
-                    
-                </div>
-
-            </div>
-            {/* <h5 class="card-title">jasa ilustrasi dan desain</h5>
-            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a> */}
-        </div>
+export default function Foter() {
+    return (
+        <footer class="text-center py-4 bg-dark text-white mt-5">
+            <p>Terhubung dengan saya:</p>
+            <a href="https://www.instagram.com/fajrulfalah_202/" class="text-white mx-2"><i class="bi bi-instagram"></i></a>
+            <a href="https://www.instagram.com/sai.kyou_/" class="text-white mx-2"><i class="bi bi-instagram"></i></a>
+            <a href="https://x.com/fajrulfalah202" class="text-white mx-2"><i class="bi bi-twitter-x"></i></a>
+            <p class="mt-3 mb-0">© 2025 Sai.Kyou_</p>
         </footer>
+
     )
 }
