@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Saikyou/static/css/main.482bf996.css",
-    "main.js": "/Saikyou/static/js/main.1bc06633.js",
+    "main.css": "/Saikyou/static/css/main.e6077217.css",
+    "main.js": "/Saikyou/static/js/main.242484f5.js",
     "static/js/453.4c1ddad6.chunk.js": "/Saikyou/static/js/453.4c1ddad6.chunk.js",
     "static/media/suisei.png": "/Saikyou/static/media/suisei.494f23d54100a8c2d38c.png",
+    "static/media/TBA.png": "/Saikyou/static/media/TBA.f076521b03eb503d193b.png",
     "static/media/bootstrap-icons.woff?": "/Saikyou/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/zeya2.jpeg": "/Saikyou/static/media/zeya2.b54c21e4b7e35f459cb9.jpeg",
     "static/media/Vanta.jpg": "/Saikyou/static/media/Vanta.8ce1897fff025e1d2974.jpg",
@@ -13,12 +14,12 @@
     "static/media/cecil.jpg": "/Saikyou/static/media/cecil.578dd3a3ad2054cdf874.jpg",
     "static/media/saikyou_v.png": "/Saikyou/static/media/saikyou_v.f2763d6a5a66f10d6347.png",
     "index.html": "/Saikyou/index.html",
-    "main.482bf996.css.map": "/Saikyou/static/css/main.482bf996.css.map",
-    "main.1bc06633.js.map": "/Saikyou/static/js/main.1bc06633.js.map",
+    "main.e6077217.css.map": "/Saikyou/static/css/main.e6077217.css.map",
+    "main.242484f5.js.map": "/Saikyou/static/js/main.242484f5.js.map",
     "453.4c1ddad6.chunk.js.map": "/Saikyou/static/js/453.4c1ddad6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.482bf996.css",
-    "static/js/main.1bc06633.js"
+    "static/css/main.e6077217.css",
+    "static/js/main.242484f5.js"
   ]
 }
