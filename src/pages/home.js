@@ -2,6 +2,8 @@ import BG from "../images/suisei.png";
 import porto1 from "../images/suisei_1.jpg";
 import porto12 from "../images/Vanta.jpg";
 import porto13 from "../images/zeya.jpg";
+import porto4 from "../images/zeya2.jpeg";
+
 
 export default function Home() {
   return (
@@ -37,24 +39,52 @@ export default function Home() {
           </div>
         </div>
       </section>
+{/* section 2: apa itu saikyou */}
+       <section className="container py-5 ">
+         <div className="row text-center mb-4 "style={{ fontFamily: "'Poppins', sans-serif" }} >
+          <p className="fw-bold text-primary font-monospace lead display-1 leading-tigh animate-fade-in">APA ITU SAIKOU</p>
+         <div class="card mb-3 shadow" >
+          <div class="row g-0">
+            <div class="col-md-4">
+               <img src={porto4} class="card-img" alt="..."></img>
+            </div>
+            <div class="col-md-8">
+              <div class="card-body">
+                  <p className="text-muted text-start fs-4">
+                  Om Pajrul: Saikyou adalah identitas dari Om Pajrul yang bergerak di bidang teknologi yang dipadukan dengan kreatif. berangkat dari hobi, berkembang menjadi layanan. SaiKyou hadir untuk membantu menampilkan karya dan bisnis dengan tampilan menarik dan berkesan.  
+                </p>
+                 <br></br>
+                <br></br>
+                <br></br>
+                <p className="text-end fs-4">Om Pajrul</p>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+       
+        </div>
 
-      {/* SECTION 2: porto --------------------------------------------------------------------*/}
-      <section className="container py-5" id="porto">
+       </section> 
+
+
+      {/* SECTION 3: porto --------------------------------------------------------------------*/}
+      <section className="container py-5 fs-5" id="porto">
         <div className="row text-center mb-4 "style={{ fontFamily: "'Poppins', sans-serif" }} >
           <p className="fw-bold text-primary font-monospace lead display-1 leading-tigh animate-fade-in">PORTOFOLIO</p>
           <p className="text-muted">Contoh karya yang dibuat sebelumnya</p>
         </div>
 
-        <div className="row">
+        <div className="row" style={{ fontFamily: "'Poppins', sans-serif" }}>
           <div className="col-md-4 mb-4">
-            <div className="card h-100 shadow">
+            <div className="card card-trans h-100 shadow">
               <img
                 src={porto1}
-                className="card-img-top"
+                className="card-img-top shadow"
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">SUISEI X SUMBER GROUP</h5>
+                <h2 className="card-title ">SUISEI X SUMBER GROUP</h2>
                 <p className="card-text">
                   bagaimana jika suisei dipadukan sama bus sumber group?
                   jadinya seperti ini
@@ -64,14 +94,14 @@ export default function Home() {
           </div>
 
           <div className="col-md-4 mb-4">
-            <div className="card h-100 shadow">
+            <div className="card card-trans h-100 shadow  ">
               <img
                 src={porto12}
-                className="card-img-top"
+                className="card-img-top shadow"
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">VANTA DENGAN BUKU</h5>
+                <h2 className="card-title">VANTA DENGAN BUKU</h2>
                 <p className="card-text">
                   dalam rangka hari kemerdekaan, maka saya buat fanart. fanart kali ini lebih ke pr yamg harus dikerjakan di indonesia
                 </p>
@@ -80,17 +110,19 @@ export default function Home() {
           </div>
 
           <div className="col-md-4 mb-4">
-            <div className="card h-100 shadow">
+            <div className="card card-trans h-100 shadow">
               <img
                 src={porto13}
-                className="card-img-top"
+                className="card-img-top shadow"
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">ZEYAYAYA WINDOWS MOMEN </h5>
+                <h2 className="card-title">ZEYAYAYA WINDOWS MOMEN </h2>
                 <p className="card-text">
                   terinspirasi dari wallpaper windows 11 dengan paduan Ichika Madobe sebagai maskot OsTan windows 11
                 </p>
+
+               
               </div>
             </div>
           </div>
